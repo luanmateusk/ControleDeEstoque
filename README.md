@@ -28,23 +28,6 @@ O projeto inclui funcionalidades de cadastro de produtos, controle de estoque (e
 - **NUnit** (para testes unitários e de integração)
 - **FluentValidation** (para validação de dados)
   
-## Estrutura do Projeto
-
-O projeto está organizado nas seguintes pastas:
-
-```
-/ControleDeEstoque
-    ├── Domain
-    │   ├── Models
-    │   │   ├── Produto.cs
-    │   │   ├── Estoque.cs
-    │   │   └── Transacao.cs
-    ├── Tests
-    │   ├── UnitTest
-    │   │   ├── ProdutoTests.cs
-    │   │   ├── EstoqueTests.cs
-    │   │   └── TransacaoTests.cs
-```
 
 ## Como Executar o Projeto
 
